@@ -1,5 +1,5 @@
 # my_study_codes
-#Python
+#Python\br
 Class and hobby codes 
 
 Hey! Welcome in my repository!
